@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="169" viewBox="0 0 256 169">
+<rect x="0" y="0" width="256" height="169" id="0" fill="rgb(168,90,28)" fill-opacity="1" />
+<line x1="104" y1="20" x2="85" y2="168" id="1" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="86" y1="168" x2="107" y2="20" id="2" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="109" y1="21" x2="87" y2="168" id="3" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="111" y1="20" x2="89" y2="168" id="4" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="82" y1="168" x2="102" y2="25" id="5" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="45" y1="168" x2="181" y2="168" id="6" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="81" y1="168" x2="101" y2="20" id="7" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="46" y1="167" x2="180" y2="161" id="8" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="60" y1="168" x2="129" y2="6" id="9" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="180" y1="160" x2="46" y2="166" id="10" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="179" y1="157" x2="46" y2="165" id="11" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="179" y1="156" x2="47" y2="163" id="12" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="48" y1="161" x2="178" y2="151" id="13" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="49" y1="155" x2="177" y2="142" id="14" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="49" y1="158" x2="178" y2="143" id="15" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="179" y1="141" x2="54" y2="148" id="16" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="116" y1="0" x2="91" y2="168" id="17" stroke="rgb(0,0,12)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="48" y1="159" x2="177" y2="146" id="18" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="175" y1="141" x2="59" y2="139" id="19" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="170" y1="121" x2="54" y2="146" id="20" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="128" y1="168" x2="92" y2="37" id="21" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="53" y1="167" x2="133" y2="13" id="22" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="111" y1="168" x2="99" y2="28" id="23" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="57" y1="139" x2="167" y2="120" id="24" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="7" y1="168" x2="16" y2="24" id="25" stroke="rgb(255,255,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="115" y1="0" x2="90" y2="168" id="26" stroke="rgb(0,0,3)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="181" y1="166" x2="51" y2="167" id="27" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="169" y1="156" x2="47" y2="159" id="28" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="173" y1="121" x2="50" y2="152" id="29" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="62" y1="168" x2="126" y2="16" id="30" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="179" y1="155" x2="51" y2="149" id="31" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="48" y1="168" x2="180" y2="162" id="32" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="49" y1="154" x2="177" y2="141" id="33" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="175" y1="148" x2="54" y2="159" id="34" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="91" y1="167" x2="124" y2="23" id="35" stroke="rgb(0,0,16)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="18" y1="168" x2="17" y2="24" id="36" stroke="rgb(255,255,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="60" y1="137" x2="165" y2="116" id="37" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="55" y1="142" x2="172" y2="120" id="38" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="60" y1="136" x2="163" y2="115" id="39" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="132" y1="9" x2="113" y2="168" id="40" stroke="rgb(0,0,28)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+</svg>
