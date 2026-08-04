@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="143" viewBox="0 0 256 143">
+<rect x="0" y="0" width="256" height="143" id="0" fill="rgb(146,153,162)" fill-opacity="1" />
+<path d="M149 125 Q 15 95 194 123" id="1" stroke="rgb(17,15,20)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M122 102 Q 166 9 137 142" id="2" stroke="rgb(0,0,5)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M149 1 Q 139 141 154 93" id="3" stroke="rgb(0,0,1)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M15 109 Q 226 142 133 7" id="4" stroke="rgb(15,19,31)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M27 89 Q 68 139 250 115" id="5" stroke="rgb(33,34,39)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M18 91 Q 138 124 212 124" id="6" stroke="rgb(20,24,34)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M166 29 Q 166 134 50 103" id="7" stroke="rgb(25,29,40)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M124 13 Q 204 14 112 128" id="8" stroke="rgb(11,14,21)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M48 94 Q 179 135 150 39" id="9" stroke="rgb(13,20,31)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M121 142 Q 144 122 145 12" id="10" stroke="rgb(0,0,7)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M167 123 Q 73 105 6 118" id="11" stroke="rgb(24,31,49)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M193 123 Q 20 140 160 136" id="12" stroke="rgb(36,33,36)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M220 107 Q 47 97 21 116" id="13" stroke="rgb(35,46,65)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M249 132 Q 248 90 48 98" id="14" stroke="rgb(39,51,65)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M3 101 Q 127 113 147 137" id="15" stroke="rgb(7,17,36)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M212 114 Q 81 107 0 106" id="16" stroke="rgb(37,44,61)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M153 98 Q 141 16 160 8" id="17" stroke="rgb(0,0,6)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M26 104 Q 199 106 232 123" id="18" stroke="rgb(47,52,64)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M111 113 Q 230 70 1 116" id="19" stroke="rgb(35,42,56)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M145 1 Q 181 124 42 97" id="20" stroke="rgb(26,34,48)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M157 48 Q 42 134 250 119" id="21" stroke="rgb(57,49,47)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M8 99 Q 188 115 122 65" id="22" stroke="rgb(26,34,48)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M6 0 Q 212 7 53 34" id="23" stroke="rgb(251,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M0 106 Q 153 116 191 135" id="24" stroke="rgb(37,45,61)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M230 122 Q 86 142 169 4" id="25" stroke="rgb(26,24,29)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M143 91 Q 162 9 135 118" id="26" stroke="rgb(0,1,10)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M39 17 Q 195 8 2 42" id="27" stroke="rgb(246,254,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M12 114 Q 36 68 229 124" id="28" stroke="rgb(46,54,66)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M13 18 Q 242 16 4 2" id="29" stroke="rgb(248,254,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M239 118 Q 0 141 165 110" id="30" stroke="rgb(44,39,38)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M6 97 Q 237 111 130 53" id="31" stroke="rgb(38,45,57)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+</svg>
