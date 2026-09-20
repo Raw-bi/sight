@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="192" height="256" viewBox="0 0 192 256">
+<rect x="0" y="0" width="192" height="256" id="0" fill="rgb(83,102,95)" fill-opacity="1" />
+<line x1="177" y1="173" x2="3" y2="179" id="1" stroke="rgb(255,255,82)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="170" y1="175" x2="0" y2="181" id="2" stroke="rgb(255,255,89)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="170" y1="176" x2="0" y2="188" id="3" stroke="rgb(255,255,77)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="9" y1="182" x2="167" y2="176" id="4" stroke="rgb(255,255,91)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="141" y1="179" x2="3" y2="189" id="5" stroke="rgb(255,255,56)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="179" y1="173" x2="8" y2="175" id="6" stroke="rgb(255,255,123)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="167" y1="177" x2="12" y2="183" id="7" stroke="rgb(255,255,87)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="12" y1="206" x2="157" y2="179" id="8" stroke="rgb(255,255,184)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="162" y1="178" x2="3" y2="191" id="9" stroke="rgb(255,255,79)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="162" y1="179" x2="23" y2="205" id="10" stroke="rgb(255,255,161)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="20" y1="207" x2="168" y2="179" id="11" stroke="rgb(255,255,136)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="164" y1="181" x2="6" y2="211" id="12" stroke="rgb(255,255,121)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="8" y1="192" x2="161" y2="179" id="13" stroke="rgb(255,255,93)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="191" y1="255" x2="191" y2="0" id="14" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="159" y1="182" x2="27" y2="214" id="15" stroke="rgb(255,255,94)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="191" y1="253" x2="0" y2="255" id="16" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<line x1="27" y1="215" x2="119" y2="193" id="17" stroke="rgb(255,255,101)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+</svg>
