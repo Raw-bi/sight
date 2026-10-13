@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="170" viewBox="0 0 256 170">
+<rect x="0" y="0" width="256" height="170" id="0" fill="rgb(195,122,78)" fill-opacity="1"/>
+<line x1="84" y1="79" x2="66" y2="97" id="1" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="113" y1="72" x2="73" y2="87" id="2" stroke="rgb(18,4,2)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="63" y1="83" x2="115" y2="78" id="3" stroke="rgb(74,30,14)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="114" y1="96" x2="51" y2="80" id="4" stroke="rgb(78,40,24)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="124" y1="89" x2="59" y2="84" id="5" stroke="rgb(88,46,27)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="135" y1="82" x2="78" y2="75" id="6" stroke="rgb(92,46,26)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="147" y1="81" x2="58" y2="85" id="7" stroke="rgb(114,64,38)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="171" y1="159" x2="223" y2="130" id="8" stroke="rgb(240,189,147)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="84" y1="76" x2="135" y2="77" id="9" stroke="rgb(93,53,32)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="127" y1="90" x2="55" y2="79" id="10" stroke="rgb(108,61,38)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="135" y1="76" x2="94" y2="88" id="11" stroke="rgb(39,25,17)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="250" y1="79" x2="207" y2="71" id="12" stroke="rgb(81,38,24)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="44" y1="111" x2="14" y2="102" id="13" stroke="rgb(73,37,23)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="16" y1="95" x2="9" y2="95" id="14" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+<line x1="142" y1="78" x2="73" y2="80" id="15" stroke="rgb(117,61,36)" stroke-width="1" fill="none" stroke-opacity="0.501961"/>
+</svg>
