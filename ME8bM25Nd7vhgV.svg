@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="170" viewBox="0 0 256 170">
+<rect x="0" y="0" width="256" height="170" id="0" fill="rgb(46,45,47)" fill-opacity="1" />
+<path d="M20 152 Q 125 149 38 155" id="1" stroke="rgb(190,244,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M27 165 Q 253 161 23 155" id="2" stroke="rgb(146,170,187)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M124 119 Q 107 21 143 109" id="3" stroke="rgb(255,213,173)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M9 167 Q 174 139 39 166" id="4" stroke="rgb(173,215,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M2 154 Q 152 168 75 158" id="5" stroke="rgb(229,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M135 56 Q 101 28 134 131" id="6" stroke="rgb(237,197,166)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M94 38 Q 176 149 54 155" id="7" stroke="rgb(194,176,156)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M77 167 Q 113 142 1 150" id="8" stroke="rgb(177,246,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M21 120 Q 196 121 96 62" id="9" stroke="rgb(200,155,121)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M74 168 Q 10 160 159 167" id="10" stroke="rgb(185,194,191)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M73 71 Q 210 30 21 162" id="11" stroke="rgb(190,155,124)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M71 169 Q 13 86 26 151" id="12" stroke="rgb(217,210,218)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M37 169 Q 160 153 48 166" id="13" stroke="rgb(232,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M7 169 Q 227 112 97 88" id="14" stroke="rgb(150,148,154)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M126 123 Q 133 113 120 70" id="15" stroke="rgb(255,234,196)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M25 169 Q 169 162 46 169" id="16" stroke="rgb(241,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M58 169 Q 240 161 91 167" id="17" stroke="rgb(121,125,120)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M38 154 Q 177 59 106 55" id="18" stroke="rgb(196,163,139)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M128 129 Q 147 1 88 94" id="19" stroke="rgb(222,179,142)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M116 37 Q 125 167 133 57" id="20" stroke="rgb(209,174,145)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+</svg>
