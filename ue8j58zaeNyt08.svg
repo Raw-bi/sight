@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="170" viewBox="0 0 256 170">
+<rect x="0" y="0" width="256" height="170" id="0" fill="rgb(124,121,119)" fill-opacity="1" />
+<polyline points="20,169 59,79 17,169 53,88" id="1" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="0,56 72,169 12,62 71,169" id="2" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="60,91 12,169 57,88 22,169" id="3" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="0,10 59,154 12,62 43,128" id="4" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="35,36 33,97 19,61 60,169" id="5" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="49,95 12,169 87,143 0,67" id="6" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="237,46 198,0 238,51 197,0" id="7" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="46,169 32,133 46,169 48,115" id="8" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="74,169 13,62 73,169 74,112" id="9" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="65,89 13,169 36,169 33,52" id="10" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="252,56 234,0 200,60 220,21" id="11" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="28,32 0,93 27,36 51,91" id="12" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="18,169 53,95 21,169 70,143" id="13" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="0,154 95,167 77,117 69,169" id="14" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="53,86 15,169 24,116 12,169" id="15" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="74,109 69,169 11,66 92,155" id="16" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="255,31 197,0 236,54 211,0" id="17" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="199,29 255,7 205,17 255,53" id="18" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="202,4 253,55 200,0 255,33" id="19" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="255,12 208,28 255,10 212,110" id="20" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="15,75 36,120 13,68 29,107" id="21" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="47,169 50,99 48,166 49,105" id="22" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="43,169 22,119 42,169 25,118" id="23" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="56,43 32,13 165,169 15,0" id="24" stroke="rgb(241,241,239)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="10,169 23,118 6,162 81,143" id="25" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="149,0 128,42 147,4 196,81" id="26" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="13,144 51,161 40,93 56,151" id="27" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="251,58 231,0 249,54 233,0" id="28" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="107,169 76,26 91,110 110,142" id="29" stroke="rgb(246,241,233)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="36,62 16,169 13,137 50,169" id="30" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="195,163 177,0 105,65 212,138" id="31" stroke="rgb(227,221,215)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="89,127 120,169 50,14 96,132" id="32" stroke="rgb(232,230,226)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="70,169 72,114 72,169 0,152" id="33" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="211,0 219,85 205,0 219,99" id="34" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="149,0 131,40 150,0 130,46" id="35" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="255,11 255,37 248,0 255,35" id="36" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="239,122 239,65 244,106 241,55" id="37" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="166,159 181,28 185,108 133,123" id="38" stroke="rgb(229,231,220)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="254,8 199,119 221,84 213,126" id="39" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="197,117 210,95 215,130 217,58" id="40" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="18,60 29,93 37,38 30,83" id="41" stroke="rgb(0,0,0)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<polyline points="227,90 240,144 242,63 234,106" id="42" stroke="rgb(254,252,252)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+</svg>
