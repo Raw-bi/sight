@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="170" viewBox="0 0 256 170">
+<rect x="0" y="0" width="256" height="170" id="0" fill="rgb(77,84,25)" fill-opacity="1" />
+<path d="M169 68 Q 96 132 212 6" id="1" stroke="rgb(146,162,93)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M158 73 Q 112 92 149 81" id="2" stroke="rgb(189,200,132)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M204 79 Q 5 91 243 73" id="3" stroke="rgb(131,146,66)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M151 93 Q 135 0 161 164" id="4" stroke="rgb(169,190,53)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M98 76 Q 147 71 185 89" id="5" stroke="rgb(145,162,74)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M205 96 Q 73 61 176 83" id="6" stroke="rgb(162,179,95)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M160 162 Q 247 154 29 111" id="7" stroke="rgb(125,140,26)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M171 81 Q 91 80 171 65" id="8" stroke="rgb(171,185,109)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M137 156 Q 207 161 138 153" id="9" stroke="rgb(165,178,48)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M176 157 Q 224 27 49 97" id="10" stroke="rgb(112,123,34)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M175 81 Q 61 97 182 43" id="11" stroke="rgb(140,143,68)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M96 169 Q 151 151 151 120" id="12" stroke="rgb(148,156,28)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M183 80 Q 6 156 246 165" id="13" stroke="rgb(123,136,34)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M190 117 Q 185 49 90 82" id="14" stroke="rgb(133,147,39)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M166 82 Q 104 160 250 161" id="15" stroke="rgb(132,147,34)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+</svg>

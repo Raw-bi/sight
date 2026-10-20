@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="170" height="256" viewBox="0 0 170 256">
+<rect x="0" y="0" width="170" height="256" id="0" fill="rgb(68,81,49)" fill-opacity="1" />
+<path d="M16 121 Q 46 14 81 45" id="1" stroke="rgb(214,193,166)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M155 39 Q 64 101 153 54" id="2" stroke="rgb(195,243,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M165 51 Q 139 31 149 65" id="3" stroke="rgb(209,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M98 33 Q 0 87 64 28" id="4" stroke="rgb(255,206,128)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M134 52 Q 107 162 163 9" id="5" stroke="rgb(155,188,224)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M156 28 Q 79 170 169 1" id="6" stroke="rgb(162,196,226)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M166 45 Q 118 51 58 127" id="7" stroke="rgb(160,197,227)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M169 48 Q 137 29 133 70" id="8" stroke="rgb(205,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M158 34 Q 111 127 35 27" id="9" stroke="rgb(171,170,168)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M41 91 Q 94 99 164 40" id="10" stroke="rgb(143,167,183)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M9 75 Q 128 14 5 68" id="11" stroke="rgb(206,175,137)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M10 93 Q 164 8 37 102" id="12" stroke="rgb(188,148,107)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M169 45 Q 64 127 169 15" id="13" stroke="rgb(143,183,233)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M15 55 Q 154 14 13 86" id="14" stroke="rgb(200,158,108)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M4 82 Q 148 58 41 31" id="15" stroke="rgb(213,166,122)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+</svg>

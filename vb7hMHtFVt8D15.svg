@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="170" viewBox="0 0 256 170">
+<rect x="0" y="0" width="256" height="170" id="0" fill="rgb(104,108,72)" fill-opacity="1" />
+<path d="M135 55 Q 27 2 131 35" id="1" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M1 10 Q 88 17 136 33" id="2" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M134 32 Q 22 21 134 32" id="3" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M77 18 Q 197 33 60 16" id="4" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M2 19 Q 216 14 184 102" id="5" stroke="rgb(255,249,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M178 1 Q 14 23 131 34" id="6" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M87 39 Q 180 18 77 16" id="7" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M221 55 Q 76 70 101 0" id="8" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M49 5 Q 36 32 211 65" id="9" stroke="rgb(244,241,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M12 7 Q 179 33 10 5" id="10" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M20 1 Q 181 57 101 47" id="11" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+<path d="M4 17 Q 161 13 75 12" id="12" stroke="rgb(255,255,255)" stroke-width="1" fill="none" stroke-opacity="0.501961" />
+</svg>
