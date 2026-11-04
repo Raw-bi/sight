@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="170" viewBox="0 0 256 170">
+<rect x="0" y="0" width="256" height="170" id="0" fill="rgb(84,78,92)" fill-opacity="1" />
+<circle cx="236" cy="82" r="55" id="1" fill="rgb(255,255,255)" fill-opacity="0.501961" />
+<circle cx="82" cy="63" r="40" id="2" fill="rgb(255,249,255)" fill-opacity="0.501961" />
+<circle cx="96" cy="169" r="60" id="3" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="0" cy="36" r="49" id="4" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="162" cy="0" r="56" id="5" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="103" cy="87" r="21" id="6" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="55" cy="105" r="34" id="7" fill="rgb(166,162,225)" fill-opacity="0.501961" />
+<circle cx="216" cy="169" r="42" id="8" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="82" cy="0" r="33" id="9" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="192" cy="112" r="27" id="10" fill="rgb(221,164,220)" fill-opacity="0.501961" />
+<circle cx="138" cy="119" r="17" id="11" fill="rgb(241,197,255)" fill-opacity="0.501961" />
+<circle cx="108" cy="45" r="17" id="12" fill="rgb(255,255,255)" fill-opacity="0.501961" />
+<circle cx="228" cy="66" r="31" id="13" fill="rgb(255,234,249)" fill-opacity="0.501961" />
+<circle cx="226" cy="0" r="33" id="14" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="24" cy="169" r="34" id="15" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="66" cy="52" r="24" id="16" fill="rgb(255,250,255)" fill-opacity="0.501961" />
+<circle cx="158" cy="78" r="25" id="17" fill="rgb(0,5,2)" fill-opacity="0.501961" />
+<circle cx="12" cy="17" r="42" id="18" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="176" cy="169" r="34" id="19" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="103" cy="118" r="23" id="20" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="125" cy="76" r="11" id="21" fill="rgb(255,248,255)" fill-opacity="0.501961" />
+<circle cx="7" cy="72" r="30" id="22" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+<circle cx="102" cy="169" r="41" id="23" fill="rgb(0,0,0)" fill-opacity="0.501961" />
+</svg>
